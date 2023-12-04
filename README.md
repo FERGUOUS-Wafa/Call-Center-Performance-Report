@@ -34,3 +34,7 @@ Agent Performance: Top 1 agent who answered the most calls and top 1 agent with 
 Call Distribution: Total number of calls by topic
 Call Duration: Duration of calls by agent
 Call Volume by Date: Total number of calls by day and month for the year 2021
+
+## Report
+![dashboard](https://github.com/FERGUOUS-Wafa/Customer-Satisfaction-Analysis-/assets/79210016/aad2057c-9a40-421b-860c-383225fb011d)
+
