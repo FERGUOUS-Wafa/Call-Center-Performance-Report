@@ -1,8 +1,7 @@
-# Customer-Satisfaction-Analysis
+# Customer-Satisfaction-Analysis-Report
 
-# CALL CENTRE Analysis Report
 
-This repository contains a Power BI report that analyzes the CALL CENTRE dataset. The report provides insights into various aspects of call center performance, including customer satisfaction, call volume, resolution rates and agent performance.
+This repository contains a Power BI report that analyzes the CALL CENTRE dataset. The report provides insights into various aspects of call center performance, including customer satisfaction, call volume, resolution rates, and agent performance.
 
 ## Project Overview
 
