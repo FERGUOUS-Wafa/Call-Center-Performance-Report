@@ -1,4 +1,4 @@
-# Customer-Satisfaction-Analysis-Report
+# Call Center Performance Report 
 
 
 This repository contains a Power BI report that analyzes the CALL CENTRE dataset. The report provides insights into various aspects of call center performance, including customer satisfaction, call volume, resolution rates, and agent performance.
@@ -29,11 +29,8 @@ Extracted seconds and minutes from AVG. TALK DURATION and created a new column n
 The report provides the following insights:
 
 Call Volume: Total number of calls, number of answered calls, and number of rejected calls
-Resolution Rates: Percentage of calls resolved and percentage of calls not resolved
+Call Rates: Percentage of calls answered and percentage of calls not rejected
 Agent Performance: Top 1 agent who answered the most calls and top 1 agent with the highest satisfaction rate
 Call Distribution: Total number of calls by topic
 Call Duration: Duration of calls by agent
 Call Volume by Date: Total number of calls by day and month for the year 2021
-Interactive Charts: Slicers to interact with other charts by month and day
-Overall Performance Rating: Overall 2021 performance rating
-Overall Satisfaction Rating: Overall 2021 satisfaction rating
